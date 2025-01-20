@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar Thakur</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<p align="center">I’m passionate about technology, programming, and solving interesting problems. I love learning and creating new things.</p>
+    </section>
 <img align ="right" alt="coding"  width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish511t&label=Profile%20views&color=0e75b6&style=flat" alt="manish511t" /> </p>
