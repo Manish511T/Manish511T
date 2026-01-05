@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Manish Thakur</h1>
-<h3 align="center">Full-Stack Web Developer | MERN Stack</h3>
+<h3 align="center">A passionate Full-stack developer who loves turning ideas into functional web applications.</h3>
 <img align ="right" alt="coding"  width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish511t&label=Profile%20views&color=0e75b6&style=flat" alt="manish511t" /> </p>
 
