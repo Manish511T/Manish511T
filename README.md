@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish511t&label=Profile%20views&color=0e75b6&style=flat" alt="manish511t" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manish511t" alt="manish511t" /></a> </p>
-
+- 🌱 Currently focused on improving backend design, API performance, and real-world project architecture.  
 - 📫 How to reach me **mkthakur2301@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
